@@ -1,4 +1,22 @@
 body
 {
-	/*background: #AED994; */
+	background-color: #000000;
+}
+
+.black-border{
+	border: 1px solid rgb(0, 0, 0);
+}
+
+.navbar-custom {
+	color: #FFFFFF;
+	background-color: #AED994;
+	border-color: #000000;
+}
+
+.fixedMargins {
+	padding-top: 15px;
+}
+
+.well {
+	background: #BEE7A5;
 }
